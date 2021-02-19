@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Mixit
 - 🌱 I’m currently learning Vue
 - ⚡ Fun fact: Have a game channel
