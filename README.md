@@ -1,9 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Maksim Morozov 👋  
 
-- 🔭 I’m currently working on Mixit
-- 🌱 I’m currently learning Vue
-- ⚡ Fun fact: Have a game channel
+🚀 **Frontend Developer | Vue.js | SCSS | JavaScript**  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxMorozov23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I'm a frontend developer passionate about **clean code, performance optimization, and responsive design**. My expertise includes:  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxMorozov23)](https://github.com/anuraghazra/github-readme-stats)
+- ⚡ **Vue.js (Vue 3 & Vue 2)**  
+- 🎨 **SCSS, Tailwind CSS, Bootstrap**  
+- 🏗️ **HTML, CSS, JavaScript**  
+- 🛠 **Web performance optimization**  
+- 📦 **Git, GitHub, CI/CD workflows**  
+
+🌱 **Currently improving skills in React.js, TypeScript, and modern frontend tools.**
+
+---
+
+📊 **GitHub Stats**  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxMorozov23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![MaxMorozov23's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxMorozov23)](https://github.com/anuraghazra/github-readme-stats)  
